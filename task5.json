@@ -1,0 +1,176 @@
+[
+    {
+        "name": "Jai Bhim",
+        "director": [
+            "T.J. Gnanavel"
+        ],
+        "language": [
+            "Tamil",
+            "Hindi"
+        ],
+        "country_name": "India",
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMGEzN2VkMmUtMGM1Zi00Y2U1LTlkMDktMTlhMTdmYzZmZDlhXkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+        "bio": "When a tribal man is arrested for a case of alleged theft, his wife turns to a human-rights lawyer to help bring justice.",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "runtime": 164
+    },
+    {
+        "name": "Anbe Sivam",
+        "director": [
+            "Sundar C."
+        ],
+        "language": [
+            "Tamil"
+        ],
+        "country_name": "India",
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTcwNDQ5MTctYzZmYS00ZjNmLWE3ZWUtMjZlMGM2NzhmNzAxXkEyXkFqcGdeQXVyODEzOTQwNTY@._V1_QL75_UY281_CR46,0,190,281_.jpg",
+        "bio": "Two men, one young and arrogant, the other damaged - physically but not spiritually - by life, are thrown together by circumstances, and find that they are in some ways bound together by fat... Read all",
+        "genre": [
+            "Adventure",
+            "Comedy",
+            "Drama"
+        ],
+        "runtime": 160
+    },
+    {
+        "name": "Pariyerum Perumal",
+        "director": [
+            "Mari Selvaraj",
+            "Prabunath"
+        ],
+        "language": [
+            "Tamil"
+        ],
+        "country_name": "India",
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNDNiZmU1Y2YtYzljMy00YWFhLWIxZjUtZTUxNGUyYmI5OTgzXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_QL75_UX190_CR0,8,190,281_.jpg",
+        "bio": "A law student from a lower caste begins a friendship with his classmate, a girl who belongs to a higher caste, and the men in her family start giving him trouble over this.",
+        "genre": [
+            "Drama"
+        ],
+        "runtime": 154
+    },
+    {
+        "name": "Gol Maal",
+        "director": [
+            "Hrishikesh Mukherjee"
+        ],
+        "language": [
+            "Hindi"
+        ],
+        "country_name": "India",
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BM2Y3Y2Q5ZDMtZjk4ZC00ODAwLTkwMDMtMjE4NWU2MmEzMWU2XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+        "bio": "A man's simple lie to secure his job escalates into more complex lies when his orthodox boss gets suspicious.",
+        "genre": [
+            "Comedy",
+            "Romance"
+        ],
+        "runtime": 144
+    },
+    {
+        "name": "Nayakan",
+        "director": [
+            "Mani Ratnam"
+        ],
+        "language": [
+            "Hindi",
+            "Tamil"
+        ],
+        "country_name": "India",
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNDViYzdlZjMtNTA2NS00MThhLWEwYTktNTE0OGZlNjJiZDJlXkEyXkFqcGdeQXVyODEzOTQwNTY@._V1_QL75_UY281_CR45,0,190,281_.jpg",
+        "bio": "A common man's struggles against a corrupt police force put him on the wrong side of the law. He becomes a don, who is loved and respected by many, but his growing power and influence exact ... Read all",
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "runtime": 156
+    },
+    {
+        "name": "3 Idiots",
+        "director": [
+            "Rajkumar Hirani"
+        ],
+        "language": [
+            "Hindi",
+            "English"
+        ],
+        "country_name": "India",
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+        "bio": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of t... Read all",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "runtime": 170
+    },
+    {
+        "name": "Apur Sansar",
+        "director": [
+            "Satyajit Ray"
+        ],
+        "language": [
+            "Bengali"
+        ],
+        "country_name": "India",
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BN2ZhM2NkZDUtMTI3OC00NWE5LWEwYzMtZTlhMjhkZGFlMjQyXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+        "bio": "This final installment in Satyajit Ray's Apu Trilogy follows Apu's life as an orphaned adult aspiring to be a writer.",
+        "genre": [
+            "Drama"
+        ],
+        "runtime": 105
+    },
+    {
+        "name": "Soorarai Pottru",
+        "director": [
+            "Sudha Kongara"
+        ],
+        "language": [
+            "Tamil",
+            "Hindi"
+        ],
+        "country_name": "India",
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BODRjZGVkNWYtZWExNS00ODEyLWI2ZjUtZGRlMWQ1MDk4NDMzXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_QL75_UX190_CR0,4,190,281_.jpg",
+        "bio": "Nedumaaran Rajangam \"Maara\" sets out to make the common man fly and in the process takes on the world's most capital intensive industry and several enemies who stand in his way.",
+        "genre": [
+            "Drama"
+        ],
+        "runtime": 153
+    },
+    {
+        "name": "C/O Kancharapalem",
+        "director": [
+            "Venkatesh Maha"
+        ],
+        "language": [
+            "Telugu"
+        ],
+        "country_name": "India",
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYjg2YWM0YzUtODViNS00OWRkLWI0YmItNDdhODUwMjVhYjQ1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY281_CR6,0,190,281_.jpg",
+        "bio": "Four unconventional love stories set in the town and including the people of Kancherapalem.",
+        "genre": [
+            "Drama"
+        ],
+        "runtime": 152
+    },
+    {
+        "name": "Kumbalangi Nights",
+        "director": [
+            "Madhu C. Narayanan"
+        ],
+        "language": [
+            "Malayalam"
+        ],
+        "country_name": "India",
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYjYyZTNkZGYtZGJjZC00NmM2LThjNjMtMjYxYTI0NTg1NzViXkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "bio": "The film revolves around four brothers who share a love-hate relationship with each other. Their relationship progresses to another level when Saji, Boney, and Franky decide to help Bobby st... Read all",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "runtime": 135
+    }
+]
